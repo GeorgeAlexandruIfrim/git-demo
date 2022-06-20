@@ -3,3 +3,4 @@ paine
 apa
 branza 
 rosii
+calamari
